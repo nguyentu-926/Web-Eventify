@@ -6,7 +6,7 @@ ___________
 
 # 2. Đối tượng sử dụng
 
-  - Người dùng cá nhân: Có nhu cầu tìm kiếm và đặt vé cho các sự kiện
+  - Người dùng cá nhân: Có nhu cầu tìm kiếm và đặt vé cho các sự kiện.
   - Ban tổ chức: Tìm kiếm một nền tảng để quảng bá, bán vé sự kiện.
 
 # 3. Chức năng chính
