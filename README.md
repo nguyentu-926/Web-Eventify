@@ -34,6 +34,9 @@ ___________
     * Quản lý doanh thu và dữ liệu khách hàng hiệu quả hơn.
 # 6. Ngôn ngữ sử dụng:  
   - Java, PHP, MySQL, Lavavel
+# 7. Link báo cáo và slide:
+  - Link báo cáo: https://docs.google.com/document/d/1f0RXU1ND2XlTvLJp5fDauZjI14mjeMQb/edit
+  - Link slide: https://www.canva.com/design/DAGgQc1mWH4/aKprwt9gBeEY7R7W4N84nQ/edit
 # 7. Thành viên
   - Nguyễn Thị Cẩm Tú - 22010230
   - Phạm Thị Vân Anh - 22010048
