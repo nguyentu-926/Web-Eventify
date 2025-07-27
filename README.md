@@ -37,7 +37,7 @@ ___________
 # 7. Link báo cáo và slide:
   - Link báo cáo: https://docs.google.com/document/d/1f0RXU1ND2XlTvLJp5fDauZjI14mjeMQb/edit
   - Link slide: https://www.canva.com/design/DAGgQc1mWH4/aKprwt9gBeEY7R7W4N84nQ/edit
-# 7. Thành viên
+# 8. Thành viên
   - Nguyễn Thị Cẩm Tú - 22010230
   - Phạm Thị Vân Anh - 22010048
   - Trần Thị Thùy Trang - 22010294
